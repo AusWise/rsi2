@@ -1,0 +1,8 @@
+c:\users\auswise\documents\visual studio 2013\Projects\Cw2 - II\WcfService2Host\obj\Debug\WcfService2Host.csprojResolveAssemblyReference.cache
+c:\users\auswise\documents\visual studio 2013\Projects\Cw2 - II\WcfService2Host\bin\Debug\WcfService2Host.exe.config
+c:\users\auswise\documents\visual studio 2013\Projects\Cw2 - II\WcfService2Host\bin\Debug\WcfService2Host.exe
+c:\users\auswise\documents\visual studio 2013\Projects\Cw2 - II\WcfService2Host\bin\Debug\WcfService2Host.pdb
+c:\users\auswise\documents\visual studio 2013\Projects\Cw2 - II\WcfService2Host\bin\Debug\WcfService2Contract.dll
+c:\users\auswise\documents\visual studio 2013\Projects\Cw2 - II\WcfService2Host\bin\Debug\WcfService2Contract.pdb
+c:\users\auswise\documents\visual studio 2013\Projects\Cw2 - II\WcfService2Host\obj\Debug\WcfService2Host.exe
+c:\users\auswise\documents\visual studio 2013\Projects\Cw2 - II\WcfService2Host\obj\Debug\WcfService2Host.pdb

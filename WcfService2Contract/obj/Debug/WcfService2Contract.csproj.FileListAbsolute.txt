@@ -1,0 +1,6 @@
+c:\users\auswise\documents\visual studio 2013\Projects\Cw2 - II\WcfService2Contract\obj\Debug\WcfService2Contract.csprojResolveAssemblyReference.cache
+c:\users\auswise\documents\visual studio 2013\Projects\Cw2 - II\WcfService2Contract\bin\Debug\WcfService2Contract.dll.config
+c:\users\auswise\documents\visual studio 2013\Projects\Cw2 - II\WcfService2Contract\bin\Debug\WcfService2Contract.dll
+c:\users\auswise\documents\visual studio 2013\Projects\Cw2 - II\WcfService2Contract\bin\Debug\WcfService2Contract.pdb
+c:\users\auswise\documents\visual studio 2013\Projects\Cw2 - II\WcfService2Contract\obj\Debug\WcfService2Contract.dll
+c:\users\auswise\documents\visual studio 2013\Projects\Cw2 - II\WcfService2Contract\obj\Debug\WcfService2Contract.pdb

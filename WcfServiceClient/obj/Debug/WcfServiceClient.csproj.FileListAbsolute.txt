@@ -1,0 +1,9 @@
+c:\users\auswise\documents\visual studio 2013\Projects\Cw2 - II\WcfServiceClient\bin\Debug\WcfServiceClient.exe.config
+c:\users\auswise\documents\visual studio 2013\Projects\Cw2 - II\WcfServiceClient\bin\Debug\WcfServiceClient.exe
+c:\users\auswise\documents\visual studio 2013\Projects\Cw2 - II\WcfServiceClient\bin\Debug\WcfServiceClient.pdb
+c:\users\auswise\documents\visual studio 2013\Projects\Cw2 - II\WcfServiceClient\obj\Debug\WcfServiceClient.csprojResolveAssemblyReference.cache
+c:\users\auswise\documents\visual studio 2013\Projects\Cw2 - II\WcfServiceClient\obj\Debug\WcfServiceClient.Properties.Resources.resources
+c:\users\auswise\documents\visual studio 2013\Projects\Cw2 - II\WcfServiceClient\obj\Debug\WcfServiceClient.csproj.GenerateResource.Cache
+c:\users\auswise\documents\visual studio 2013\Projects\Cw2 - II\WcfServiceClient\obj\Debug\WcfServiceClient.exe
+c:\users\auswise\documents\visual studio 2013\Projects\Cw2 - II\WcfServiceClient\obj\Debug\WcfServiceClient.pdb
+c:\users\auswise\documents\visual studio 2013\Projects\Cw2 - II\WcfServiceClient\obj\Debug\WcfServiceClient.Form1.resources

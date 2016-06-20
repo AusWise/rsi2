@@ -1,0 +1,6 @@
+c:\users\auswise\documents\visual studio 2013\Projects\Cw2 - II\Cw2 - II\bin\Debug\Cw2 - II.dll.config
+c:\users\auswise\documents\visual studio 2013\Projects\Cw2 - II\Cw2 - II\bin\Debug\Cw2 - II.dll
+c:\users\auswise\documents\visual studio 2013\Projects\Cw2 - II\Cw2 - II\bin\Debug\Cw2 - II.pdb
+c:\users\auswise\documents\visual studio 2013\Projects\Cw2 - II\Cw2 - II\obj\Debug\WcfService1Contract.csprojResolveAssemblyReference.cache
+c:\users\auswise\documents\visual studio 2013\Projects\Cw2 - II\Cw2 - II\obj\Debug\Cw2 - II.dll
+c:\users\auswise\documents\visual studio 2013\Projects\Cw2 - II\Cw2 - II\obj\Debug\Cw2 - II.pdb
